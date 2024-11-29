@@ -10,8 +10,8 @@ lcd = LCD()
 switch_status = False
 fan_status = 'false'
 MQTT_Broker ='thingsboard.cloud'
-S1_ACCESS_TOKEN =os.getenv('S1_ACCESS_TOKEN') 
-Fan_ACCESS_TOKEN=os.getenv('FAN_ACCESS_TOKEN')
+S1_ACCESS_TOKEN = os.getenv('S1_ACCESS_TOKEN') 
+Fan_ACCESS_TOKEN= os.getenv('Fan_ACCESS_TOKEN')
 url = "http://192.168.2.13:3001/devices/ac233fa4d282/2"
 
 
@@ -39,7 +39,8 @@ def on_message(client, userdata, message):
 
 
 #control the switch button on Thingsboard from python code
-def toggle_switch(client, new_status): 
+def toggle_switch(client, new_status):
+    global fan_status 
     try:
         fan_status = new_status
         print(f"Toggling switch to: {fan_status}")
