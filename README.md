@@ -18,4 +18,7 @@
 3. [Minew S1 BLE Sensor](https://www.minew.com/product/s1-ble-temperature-and-humidity-sensor/).
 4. ThingsBoard.
 5. Woozoo Fan.
-6. [IR LED DIODE](https://www.digikey.ca/en/products/detail/excelitas-technologies/VTE1291-1H/5885863) (used to transmit on/off signals to control the fan).  
+6. [IR LED DIODE](https://www.digikey.ca/en/products/detail/excelitas-technologies/VTE1291-1H/5885863) (used to transmit on/off signals to control the fan).
+
+## Demo Video
+[![Watch the video](video-thumbnail.png)](https://youtu.be/3IwqFQlKrE4)
