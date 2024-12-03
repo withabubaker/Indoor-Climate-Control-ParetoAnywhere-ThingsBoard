@@ -9,5 +9,5 @@
 - Visualizing real-time data on the ThingsBoard dashboard.
 - Automating fan control based on temperature thresholds.
 - Enabling manual fan control through a switch widget on the ThingsBoard dashboard.
-- Display temperature and humidity on LCD screen.
+- Display real-time temperature and humidity data on LCD screen.
 
