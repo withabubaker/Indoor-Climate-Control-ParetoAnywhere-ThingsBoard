@@ -11,3 +11,11 @@
 - Enabling manual fan control through a switch widget on the ThingsBoard dashboard.
 - Display real-time temperature and humidity data on LCD screen.
 
+## Tools & Hardware:
+
+1. Raspberry Pi 4.
+2. [Pareto Anywhere](https://www.reelyactive.com/pareto/anywhere/).
+3. [Minew S1 BLE Sensor](https://www.minew.com/product/s1-ble-temperature-and-humidity-sensor/).
+4. ThingsBoard.
+5. Woozoo Fan.
+6. [IR LED DIODE](https://www.digikey.ca/en/products/detail/excelitas-technologies/VTE1291-1H/5885863) (used to transmit on/off signals to control the fan).  
