@@ -21,4 +21,4 @@
 6. [IR LED DIODE](https://www.digikey.ca/en/products/detail/excelitas-technologies/VTE1291-1H/5885863) (used to transmit on/off signals to control the fan).
 
 ## Demo Video
-[![Watch the video](video-thumbnail.jpg)](https://youtu.be/3IwqFQlKrE4)
+[![Watch the video](https://github.com/withabubaker/Indoor-Climate-Control-ParetoAnywhere-ThingsBoard/blob/main/img/video-thumbnail.jpg)](https://youtu.be/3IwqFQlKrE4)
